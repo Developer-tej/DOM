@@ -5,4 +5,48 @@
 
 body{
     background-color: #111;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    margin: 10px;
+    background-color: #0b0b0d;
+    padding: 20px;
+    width: 300px;
+    height: 350px;
+    border:2px solid #27272d ;    
+    border-radius: 12px;
+
+}
+
+.shape{
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.circle{
+    background-color: #02367b;
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+button{
+    outline:none;
+    border:5px solid #0496c7;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 550;
+    margin: 10px 34.5%;
+
 }
